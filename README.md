@@ -3,13 +3,13 @@
 This is an UI Wrapper for HiDream-O1-Image : https://github.com/HiDream-ai/HiDream-O1-Image
  Required to have the Official Github for pipeline and model weights in order to run this.
 
-HiDream-O1-Image
-https://github.com/HiDream-ai/HiDream-O1-Image
-HiDream-O1-Image Model: 
- https://huggingface.co/HiDream-ai/HiDream-O1-Image
+HiDream-O1-Image: https://github.com/HiDream-ai/HiDream-O1-Image
+
+HiDream-O1-Image Model: https://huggingface.co/HiDream-ai/HiDream-O1-Image
+ 
  Or
-HiDream-O1-Image-Dev Model: 
- https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev
+ 
+HiDream-O1-Image-Dev Model: https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev
 
 A conversational AI interface for image generation and editing, powered by **HiDream-O1-Image** and **Ollama** tool calling.
 
