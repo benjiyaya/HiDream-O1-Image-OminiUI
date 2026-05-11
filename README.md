@@ -4,12 +4,12 @@ A conversational AI interface for image and video generation, powered by **MCP (
 
 Describe what you want in natural language. The LLM reasons through your request, then calls the appropriate image/video tool automatically via MCP servers.
 
+More Ongoing update and other development, feel free to check out in Patreon: https://patreon.com/aifuturetech
+
 <img width="1595" height="1061" alt="Screenshot 2026-05-12 060615" src="https://github.com/user-attachments/assets/4d540ff2-51d5-4673-85d9-b1086a1d5f9e" />
 
 <img width="1878" height="1056" alt="Screenshot 2026-05-12 060456" src="https://github.com/user-attachments/assets/69e9ac61-507b-41e2-a38b-81c2a9b5d86b" />
 
-
-More Ongoing update and other development, feel free to check out in Patreon: https://patreon.com/aifuturetech
 
 ## Features
 
